@@ -1,0 +1,19 @@
+h2 {
+    font-size: 32px;
+    color: #BCEC35;
+    font-family: cursive
+}
+
+p {
+    font-size: 22px;
+    font-family: sans-serif;
+}
+
+nav a {
+    font-size: 21px;
+    font-family: sans-serif;
+}
+
+img {
+    border-radius: 20px;
+}
